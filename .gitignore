@@ -1,0 +1,7 @@
+web/node_modules/
+data/*.json
+media/*.png
+media/*.jpg
+media/*.webp
+media/*.mp4
+media/*.webm

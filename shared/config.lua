@@ -1,3 +1,5 @@
+VersionCheck = true
+
 JobCenter = {
     command = 'jobcenteradmin',
     ace = 'forge.jobcenter.admin',
